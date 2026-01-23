@@ -1,11 +1,26 @@
-  =>  Template Name    : DRYME - Laundry Service Website Template
+# 54 Digital – Página institucional
 
-  =>  Template Link    : https://htmlcodex.com/laundry-service-website-template
+Página web institucional para la empresa 54 Digital, orientada a ofrecer
+soluciones tecnológicas y rastreo satelital de flotas vehiculares.
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+## Tecnologías utilizadas
+- HTML5
+- CSS3 (Flexbox)
+- JavaScript
 
-  =>  Template Author  : HTML Codex
+## Descripción
+El proyecto se desarrolló a partir de una plantilla HTML base, la cual fue
+adaptada completamente al contenido y necesidades de la empresa:
+- modificación de textos y secciones
+- ajustes de estilos y colores
+- adaptación responsive
+- agregado de funcionalidades con JavaScript
 
-  =>  Author Website   : https://htmlcodex.com
+## Aprendizajes
+- estructura semántica de HTML
+- maquetado con CSS
+- lectura y adaptación de código existente
+- manipulación básica del DOM
 
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+## Estado del proyecto
+En desarrollo.

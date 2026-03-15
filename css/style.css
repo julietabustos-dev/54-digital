@@ -4036,12 +4036,13 @@ input[type="button"].btn-block {
 }
 
 .navbar {
-  position: relative;
+  position: fixed;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
   padding: 0.5rem 1rem;
+  width: 70%;
 }
 
 .navbar .container,
@@ -9684,6 +9685,10 @@ h6,
 .object-fit-cover {
   object-fit: cover;
 }
+.img-servicio{
+    height: 230px;
+    object-fit: contain;
+}
 /**Servicios**/
 .servicio-card{
 background: linear-gradient(135deg,#cfe9f3,#e6f7f9);
@@ -9697,10 +9702,9 @@ height:100%;
 transform:translateY(-10px);
 box-shadow:0 20px 40px rgba(0,0,0,0.12);
 }
-
 .logo-circle{
-width:90px;
-height:90px;
+width:140px;
+height:120px;
 border-radius:50%;
 background:white;
 display:flex;
@@ -9708,11 +9712,12 @@ align-items:center;
 justify-content:center;
 margin:auto;
 }
-
 .logo-circle img{
-width:60px;
+width:80%;
 }
-
+.logo-circle-uno img{
+width: 95%;
+}
 .title-blue{
 color:#1f5fa8;
 font-weight:600;
@@ -9762,7 +9767,7 @@ right:10px;
     float: right;
     width: 420px;
     max-width: 45%;
-    margin: 0 0 25px 40px;
+    margin: 70px 0 25px 40px;
     border-radius: 12px;
 }
 .about-content::after {
